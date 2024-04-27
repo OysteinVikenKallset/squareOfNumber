@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KvadratetAvEtTall")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8660cc017bd026720ad275072c1e858a3143d274")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65310ced9a0108318e0363b9d2c305ded86ad81f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KvadratetAvEtTall")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KvadratetAvEtTall")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

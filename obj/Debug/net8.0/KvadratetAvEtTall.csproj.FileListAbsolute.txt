@@ -12,3 +12,4 @@ C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTal
 C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.pdb
 C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.genruntimeconfig.cache
 C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\ref\KvadratetAvEtTall.dll
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.sourcelink.json
