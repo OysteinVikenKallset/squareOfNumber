@@ -1,0 +1,14 @@
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\bin\Debug\net8.0\KvadratetAvEtTall.exe
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\bin\Debug\net8.0\KvadratetAvEtTall.deps.json
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\bin\Debug\net8.0\KvadratetAvEtTall.runtimeconfig.json
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\bin\Debug\net8.0\KvadratetAvEtTall.dll
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\bin\Debug\net8.0\KvadratetAvEtTall.pdb
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.AssemblyInfoInputs.cache
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.AssemblyInfo.cs
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.csproj.CoreCompileInputs.cache
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.dll
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\refint\KvadratetAvEtTall.dll
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.pdb
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\KvadratetAvEtTall.genruntimeconfig.cache
+C:\Programering\learnC#and.Net\CsharpProjects\KvadratetAvEtTall\KvadratetAvEtTall\obj\Debug\net8.0\ref\KvadratetAvEtTall.dll
